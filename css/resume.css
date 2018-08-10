@@ -129,9 +129,9 @@ section.resume-section .resume-item .resume-date {
     padding-bottom: 3rem !important;
   }
 }
-
+/* Change main color of resume */
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: #08a4a7 !important;
 }
 
 .text-primary {
